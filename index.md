@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kinformation/lpic_300/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kinformation/lpic_300/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# LinuC(LPIC対応) 300試験 徹底解説
+## 390 OpenLDAP の設定
+#### [[390.1 OpenLDAPのレプリケーション]]
+#### [[390.2 ディレクトリの保護]]
+#### [[390.3 OpenLDAPサーバのパフォーマンスチューニング]]
+## 391：OpenLDAPの認証バックエンドとしての利用
+#### [[391.1 PAMおよびNSSとLDAPの統合]]
+#### [[391.2 アクティブディレクトリおよびKerberosとLDAPの統合]]
+## 392：Sambaの基礎
+#### [[392.1 Sambaの概念とアーキテクチャ]]
+#### [[392.2 Sambaを設定する]]
+#### [[392.3 Sambaの保守]]
+#### [[392.4 Sambaのトラブルシューティング]]
+#### [[392.5 国際化]]
+## 393：Sambaの共有の設定
+#### [[393.1 ファイルサービス]]
+#### [[393.2 Linuxファイルシステムと共有/サービスのパーミッション]]
+#### [[393.3 プリントサービス]]
+## 394：Sambaのユーザとグループの管理
+#### [[394.1 ユーザアカウントとグループアカウントの管理]]
+#### [[394.2 認証と許可およびWinbind]]
+## 395：Sambaのドメイン統合
+#### [[395.1 SambaのPDCとBDC]]
+#### [[395.2 Samba4のAD互換ドメインコントローラ]]
+#### [[395.3 Sambaをドメインメンバーサーバとして設定する]]
+## 396：Sambaのネームサービス
+#### [[396.1 NetBIOSとWINS]]
+#### [[396.2 アクティブディレクトリの名前解決]]
+## 397：LinuxおよびWindowsクライアントの操作
+#### [[397.1 CIFS連携]]
+#### [[397.2 Windowsクライアントの操作]]
